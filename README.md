@@ -1,10 +1,7 @@
- INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-
-
-
+**INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-**
 
 
 **AIM**:  To interface a Analog  input (angular displacement sensor POT) and scale the values up on change in the input.
-
 
 **COMPONENTS REQUIRED:**
 1.	10 KΩPOT
@@ -13,7 +10,6 @@
 4.	USB Interfacing cable 
 5.	Connecting wires 
 6.	LED of choice 
-**
 
 
 **THEORY**: 
@@ -43,14 +39,9 @@ A potentiometer, informally a pot, is a three-terminal resistor with a sliding o
 Potentiometers are commonly used to control electrical devices such as volume controls on audio equipment. Potentiometers operated by a mechanism can be used as position transducers, for example, in a joystick. Potentiometers are rarely used to directly control significant power (more than a watt), since the power dissipated in the potentiometer would be comparable to the power in the controlled load
 CIRCUIT DIAGRAM
 
-
-
-
-
 ![image](https://user-images.githubusercontent.com/36288975/163530788-eec3cdc3-95e8-4d2d-8349-6d0ea4c9439c.png)
 
 FIGURE -01
-
 
 **PROCEDURE:**
 
@@ -63,7 +54,6 @@ FIGURE -01
 7.	Open the file of the program  and verify the error , clear if any errors that are existing 
 8.	Upload the program and check for the physical working. 
 9.	Ensure safety before powering up the device 
-
 
 
 **PROGRAM** 
@@ -103,12 +93,10 @@ void loop()
 ```
 ![image](https://github.com/Sachin-vlr/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/113497666/aa5b7276-98bf-4756-956d-caa718ba85a9)
 
-
 **
 **Simulation output:** 
 
 ![image](https://github.com/Sachin-vlr/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/113497666/9e0a2b62-edaf-4b4a-9cc5-3061d6ca27bf)
-
 
 ![image](https://github.com/Sachin-vlr/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/113497666/c3cc4cac-b83e-4753-ad5a-5fc7b25a3153)
 
